@@ -45,6 +45,18 @@
             "documentation/customization"
         ]
     },
+    "documentation/themebuilder": {
+        "title": "Theme builder",
+        "subtitle": "todo: route subtitle",
+        "path": "/documentation/themebuilder",
+        "githubPath": "pages/installation/ThemeBuilder.vue",
+        "menu": "documentation",
+        "breadcrumb": [
+            "/",
+            "documentation",
+            "documentation/themebuilder"
+        ]
+    },
     "documentation/constructor-options": {
         "title": "Constructor options",
         "subtitle": "These are global default options, which are set on Buefy initialization",

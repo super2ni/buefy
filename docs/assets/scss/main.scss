@@ -1,3 +1,6 @@
+// CSS variables are set prior to Bulma's
+@import "_cssvariables";
+
 // Bulma vars
 @import "~bulma/sass/utilities/_all";
 

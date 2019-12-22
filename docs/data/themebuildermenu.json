@@ -1,0 +1,118 @@
+{
+    "tabs": [
+        {
+            "title": "colors",
+            "component": "colors"
+        },
+        {
+            "title": "button",
+            "component": "button",
+            "disabled": true
+        },
+        {
+            "title": "carousel",
+            "component": "carousel",
+            "disabled": true
+        },
+        {
+            "title": "collapse",
+            "component": "collapse",
+            "disabled": true
+        },
+        {
+            "title": "dialog",
+            "component": "dialog",
+            "disabled": true
+        },
+        {
+            "title": "dropdown",
+            "component": "dropdown",
+            "disabled": true
+        },
+        {
+            "title": "form controls",
+            "component": "formcontrols",
+            "disabled": true
+        },
+        {
+            "title": "icon",
+            "component": "icon",
+            "disabled": true
+        },
+        {
+            "title": "loading",
+            "component": "loading",
+            "disabled": true
+        },
+        {
+            "title": "menu",
+            "component": "menu",
+            "disabled": true
+        },
+        {
+            "title": "message",
+            "component": "message",
+            "disabled": true
+        },
+        {
+            "title": "modal",
+            "component": "modal",
+            "disabled": true
+        },
+        {
+            "title": "navbar",
+            "component": "navbar",
+            "disabled": true
+        },
+        {
+            "title": "notification",
+            "component": "notification",
+            "disabled": true
+        },
+        {
+            "title": "pagination",
+            "component": "pagination",
+            "disabled": true
+        },
+        {
+            "title": "progress",
+            "component": "progress",
+            "disabled": true
+        },
+        {
+            "title": "snackbar",
+            "component": "snackbar",
+            "disabled": true
+        },
+        {
+            "title": "steps",
+            "component": "steps",
+            "disabled": true
+        },
+        {
+            "title": "table",
+            "component": "table",
+            "disabled": true
+        },
+        {
+            "title": "tabs",
+            "component": "tabs",
+            "disabled": true
+        },
+        {
+            "title": "tag",
+            "component": "tag",
+            "disabled": true
+        },
+        {
+            "title": "toast",
+            "component": "toast",
+            "disabled": true
+        },
+        {
+            "title": "tooltip",
+            "component": "tooltip",
+            "disabled": true
+        }
+    ]
+}

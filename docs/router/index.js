@@ -33,6 +33,7 @@ const router = new Router({
                 route('documentation', 'Documentation'),
                 route('documentation/start', 'installation/Start'),
                 route('documentation/customization', 'installation/Customization'),
+                route('documentation/themebuilder', 'installation/ThemeBuilder'),
                 route('documentation/constructor-options', 'installation/ConstructorOptions'),
                 route('documentation/layout', 'Layout'),
                 route('documentation/icon', 'components/icon/Icon'),
